@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👨‍💻 Michael Thompson – Senior Penetration Tester at SentinelForge Security
 
-<!--
-**MichaelTho77/MichaelTho77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I lead offensive security assessments that simulate real-world attacks to help organizations fix vulnerabilities *before* they’re exploited. From web apps and mobile endpoints to physical access tests — I’ve breached it all (ethically, of course).
 
-Here are some ideas to get you started:
+### 🛠️ Expertise:
+- **Web/Mobile App Security**
+- **Physical Red Teaming**
+- **Infrastructure & Internal Network Assessments**
+- **Post-Exploitation & Pivoting**
+- **Mentoring Junior Red Teamers**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve helped secure organizations across **finance**, **healthcare**, and **logistics**, and regularly train newer team members on:
+- Engagement planning & scoping
+- Initial access & privilege escalation
+- Reporting that actually helps dev teams
+
+### 🐾 Personal Bits:
+- 🎂 Born: **January 20, 1977**
+- 🐱 Cat: **Luna**, our accidental keyboard attacker
+- 👨‍👧‍👧👦 Proud father of three amazing kids
+- 🎮 Weekends = patching Minecraft servers & dodging creepers IRL
+
+> I break into systems at work and keep them patched at home.  
+> Red teamer by trade, dad by nature.
