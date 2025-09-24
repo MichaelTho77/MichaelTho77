@@ -15,7 +15,7 @@ I’ve helped secure organizations across **finance**, **healthcare**, and **log
 - Reporting that actually helps dev teams
 
 ### 🐾 Personal Bits:
-- 🎂 Born: **January 20, 1977**
+- 🎂 Born: **May 11, 1966**
 - 🐱 Cat: **Luna**, our accidental keyboard attacker
 - 👨‍👧‍👧👦 Proud father of three amazing kids
 - 🎮 Weekends = patching Minecraft servers & dodging creepers IRL
